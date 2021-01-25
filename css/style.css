@@ -142,6 +142,7 @@ img {
     cursor: pointer;
     border-radius: 3px;
     transition: .3s;
+    margin-top: 30px;
 }
 
 .item-services:hover {

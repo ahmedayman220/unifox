@@ -428,6 +428,37 @@ img {
 /* ================================== */
 
 
+/* footer */
+
+
+/* ================================== */
+
+footer {
+    background-color: #343434;
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+
+.footer-item h3 {
+    border-bottom: 1px solid #3f3f3f;
+    color: #fff;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 0;
+    padding-bottom: 8px;
+    text-transform: capitalize;
+}
+
+.footer-item p {
+    color: #fff;
+    line-height: 25px;
+    text-transform: capitalize;
+}
+
+
+/* ================================== */
+
+
 /* Media Query */
 
 

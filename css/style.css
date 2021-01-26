@@ -81,6 +81,10 @@ img {
     font-weight: 600;
 }
 
+.active {
+    background-color: #75a733 !important;
+}
+
 
 /* ================================== */
 
